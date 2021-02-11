@@ -27,7 +27,7 @@ SECRET_KEY = '1a@&r-&nr3v15&7poh76g7g4478!kh(j3nt_q!c%&l^d-e1+v5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['facturacion-django-monica.herokuapp.com']
 
 
 # Application definition
