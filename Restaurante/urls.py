@@ -6,7 +6,7 @@ from rest_framework.permissions import AllowAny
 
 schema_view = get_schema_view(
     info=openapi.Info(
-        title='Facturacion de Restaurantes son SUNAT',
+        title='Facturacion de Restaurantes con SUNAT',
         default_version='v1',
         description='API del manejo de un restaurante con facturacion',
         terms_of_service='https://www.google.com',
